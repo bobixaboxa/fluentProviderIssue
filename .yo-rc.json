@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": false,
+    "version": "1.17.2",
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "libraryName": "react-fluentui-9",
+    "libraryId": "d955a989-7441-475a-b4eb-ff132968b3c5",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "react-fluentui-9",
+    "solutionShortDescription": "react-fluentui-9 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "FormCustomizer"
+  }
+}
